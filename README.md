@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm using Python, still beginner
 
 <!--
 **mekonical22/mekonical22**
