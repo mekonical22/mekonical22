@@ -1,7 +1,3 @@
-### Hi there 👋
-I'm using Python, still beginner
-
-<!--
-**mekonical22/mekonical22**
-I’m currently learn Python
--->
+# mekonical22
+## README.MD
+Hello, world!
