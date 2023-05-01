@@ -4,6 +4,7 @@
 
 - 💻 Mostly code with Go.
 - 🏫 A student.
+- 👶 Still a beginner.
 
 ## 🪅 Hobbies
 
