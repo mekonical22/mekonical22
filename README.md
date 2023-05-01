@@ -3,7 +3,7 @@
 ## 🙋 About Me
 
 - 💻 Mostly code with Go.
-- A student.
+- 🏫 A student.
 
 ## 🪅 Hobbies
 
